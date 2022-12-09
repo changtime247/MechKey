@@ -1,11 +1,14 @@
 # MechKey Ecommerce
 
-> eCommerce frontend built with React.js / Redux and Airtable database
+> eCommerce frontend built with React.js / Redux and Airtable database - [check out the site](https://mechkey.netlify.app/)
+
+![mechkey-front](https://user-images.githubusercontent.com/86252224/206742526-d472c7f5-ebfb-421f-a079-72cc0a7e38ff.png)
 
 ---
 
 ## Sample login
 
+[Go here](https://mechkey.netlify.app/), click login and use example credentials
 ```
 login email: tester@tester.com
 password: Tester11!!
